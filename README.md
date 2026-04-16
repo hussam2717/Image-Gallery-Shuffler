@@ -9,3 +9,10 @@ Live Demo -
 ⚡ Fast and lightweight
 🎨 Clean and modern UI design
 📱 Mobile-friendly
+
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+Lorem Picsum API (for random images)
