@@ -1,2 +1,11 @@
 # Image-Gallery-Shuffler
 A modern and responsive Image Gallery built using HTML, CSS, and JavaScript. This project displays beautiful images and allows users to shuffle them dynamically with a single click.
+
+Live Demo - 
+
+🚀 Features
+🖼️ Responsive image gallery layout
+🔀 Shuffle images on button click
+⚡ Fast and lightweight
+🎨 Clean and modern UI design
+📱 Mobile-friendly
