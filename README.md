@@ -28,3 +28,9 @@ Images are fetched from Lorem Picsum
 On clicking "Shuffle Images", the images reload randomly
 JavaScript handles DOM updates and image refresh
 
+💡 Future Improvements
+Add lightbox (image preview popup)
+Add categories (nature, city, etc.)
+Add animations on shuffle
+Add download button for images
+
