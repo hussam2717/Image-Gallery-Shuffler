@@ -23,3 +23,8 @@ image-gallery-shuffler/
 │── style.css
 │── script.js
 
+⚙️ How It Works
+Images are fetched from Lorem Picsum
+On clicking "Shuffle Images", the images reload randomly
+JavaScript handles DOM updates and image refresh
+
