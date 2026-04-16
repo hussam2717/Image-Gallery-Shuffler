@@ -16,3 +16,10 @@ HTML5
 CSS3
 JavaScript (Vanilla JS)
 Lorem Picsum API (for random images)
+
+📂 Project Structure
+image-gallery-shuffler/
+│── index.html
+│── style.css
+│── script.js
+
